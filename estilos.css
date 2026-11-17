@@ -1,0 +1,15 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+color: aquamarine;
+background-color: rgb(5, 76, 99);
+}
+
+h1 {
+color: rgb(167, 242, 167);
+}
+
+button {
+padding: 10px;
+cursor: pointer;
+}
